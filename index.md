@@ -1,0 +1,39 @@
+
+<html>
+	<head>
+		<title>Ядерные реакции</title>
+		<meta charset="utf-8">	
+		<link rel="stylesheet" href="main.css"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+		<link rel="shortcut icon" href="https://w7.pngwing.com/pngs/165/985/png-transparent-atomic-theory-carbon-atomic-mass-chemical-element-atom-symmetry-chemistry-subatomic-particle.png"/>
+	</head>
+	<body>
+		<h1 class="title">Ядерные реакции</h1>
+	<p class="title">На этом сайте вы можете проводить <b>ядерные реакции</b></p>
+	<br>
+	<p class="text"><b>У 'γ' 0 протонов и 0 электронов </b>	</p>
+ <p class="text">Введите массу первого элемента: <input type="number" class="a1">; Введите порядковый номер первого элемента:  <input type="number" class="a2"></p>
+ <p class="text">Введите массу второго элемента: <input type="number" class="b1">; Введите порядковый номер второго элемента:  <input type="number" class="b2"></p>
+ <p class="text">Введите массу третьего элемента: <input type="number" class="c1">; Введите порядковый номер третьего элемента:  <input type="number" class="c2"></p>
+ <button class="btn1">Расчитать</button>
+ <img src="https://i.imgur.com/zVIkC3J.png" style="height: 60px;margin: 10px auto 20px;display: block; border-radius: 10px;">
+ <br>
+ <h2 class="title">Решение и ответ:</h2>
+ <div class="text">
+ <div class="out1"></div>
+ <br>
+ <div class="out2"></div>
+ <br>
+ <div class="out3"></div>
+ </div>
+ <br>
+<script src="p4.js"></script>
+	<hr>
+	<ul>
+		<li class="vk"><a href="https://vk.com/whoamin">ВК</a> разработчика</li>
+
+	</ul>  
+	</body>
+</html>
